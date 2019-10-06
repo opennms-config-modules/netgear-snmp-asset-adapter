@@ -1,0 +1,1 @@
+# netgear-snmp-asset-adapter
